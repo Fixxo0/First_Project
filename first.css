@@ -1,0 +1,61 @@
+
+/* sizing the Whole sheet */
+*{
+    box-sizing: border-box;
+}
+/* styling the first div*/
+.container{
+    padding: 10px 50px 20px;
+    text-align: justify;
+    border: 1px solid  #f2f2f2);
+    padding-right: 50px;
+    border-radius: 20px
+    
+  }
+  /* coloring the back ground*/
+  .container{
+      background-color:#7E8274;
+
+ /*styling the inner input boxes  box */
+  }
+  .box{
+width: 100%;
+height: 28px;
+    -webkit-box-shadow:0 8px 10px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow:0 8px 10px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+         box-shadow:0 8px 10px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+/*styling the h1 tag (First project)*/
+h1{
+    text-align: justify;
+    text-size-adjust: 50% ;
+    font-family: "Quicksand";
+}
+/* syling the inner box*/
+.bx{
+    width: 200px;
+    border: 1px  solid rgb(3, 3, 3);
+     width: 400px ;
+     height: 500px;
+    padding: 70px ;
+    margin: 100px;
+    text-size-adjust: 50% ;
+    border-radius:1px 90px 30px;
+    background-color:  #e2e2e2	 ;
+    border: none;
+    -webkit-box-shadow:0 20px 25px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow:0 20px 25px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+         box-shadow:0 20px 25px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+/*syling the submit button*/
+.submit{
+     
+    background-color:#FF7800;
+    border: none;
+    padding: 5px 10px;
+   font-size: medium;
+   font-weight: bolder;
+   
+
+}
